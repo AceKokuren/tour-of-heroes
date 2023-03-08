@@ -2,6 +2,6 @@ export interface Hero {
   id: number;
   alterEgo: string;
   superHeroName: string;
-  age: number;
+  age: string;
   superpowers: string[];
 }
